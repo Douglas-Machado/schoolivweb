@@ -2,7 +2,7 @@ import { AiOutlinePlus } from "react-icons/ai"
 
 export default function Dashboard() {
     return (
-        <div className="pl-12 pt-12 h-full">
+        <div className="pl-16 pt-12 h-full">
             <h1 className="text-zinc-700 font-bold text-3xl">TURMAS</h1>
             <div className="pt-8 flex gap-20">
                 <div>

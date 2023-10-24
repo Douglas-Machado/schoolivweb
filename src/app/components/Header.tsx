@@ -3,7 +3,7 @@ import { LuSearch } from 'react-icons/lu'
 export default function Header() {
     return (
         <header className='flex justify-end bg-zinc-500 h-20 py-12 shadow-md shadow-zinc-600 fixed right-0 left-0 w-screen px-8'>
-            <div className='flex justify-between items-center w-[88%]'>
+            <div className='flex justify-between items-center w-[87%]'>
                 <div className='bg-orange-500'></div>
                 <div className='flex-1'>
                     <form className='relative w-9/12'>
